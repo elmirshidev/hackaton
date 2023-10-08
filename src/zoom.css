@@ -1,0 +1,10 @@
+[data-rmiz-content]{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+
+button[aria-label]{
+    @apply text-textBlack font-poppins text-[13px] font-[700];
+}
